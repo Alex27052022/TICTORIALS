@@ -1,0 +1,14 @@
+<html>
+<title>Bienvenidos a la carrera de TICS</title>
+</head>
+<body  background="techfondo.jpg">
+<h6 p align="center"><font color="silver" face="verdana">Como veran la mayoria de ustedes probablemente tengan dudas de que veran acerca de esta carrera o solo crean que solo es programar y ya pero les aseguro que no solo se trata de eso. A continuacion daremos a conocer algunos tutoriales que te puedan ser de ayuda </h6>
+</p>
+
+<p align="center"><img src="titulo.jpg" width="500" height="400">
+
+  <video>
+  <source src="tutorialpackettracer.mp4" type="video/mp4">
+</video>
+
+</html>
